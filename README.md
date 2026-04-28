@@ -5,5 +5,5 @@ OnShape file: https://cad.onshape.com/documents/ebccc00f8aa0145859383c1b/w/f9b5b
 File from Printables.com https://www.printables.com/model/658393-friction-hinge-mechanism by KatDelago \
 Random nerd tutorials https://randomnerdtutorials.com/esp32-web-server-beginners-guide/ \
 Random nerd tutorials https://randomnerdtutorials.com/esp32-client-server-wi-fi/ \
-By Giovanni Aggiustatutto https://www.instructables.com/DIY-Weather-Station-With-ESP32/ \
+From Instructables.com https://www.instructables.com/DIY-Weather-Station-With-ESP32/ By Giovanni Aggiustatutto \
 Ky- modules https://arduinomodules.info/page/2/ 
