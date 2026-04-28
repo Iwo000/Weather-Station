@@ -6,4 +6,4 @@ File from Printables.com https://www.printables.com/model/658393-friction-hinge-
 Random nerd tutorials https://randomnerdtutorials.com/esp32-web-server-beginners-guide/ \
 Random nerd tutorials https://randomnerdtutorials.com/esp32-client-server-wi-fi/ \
 By Giovanni Aggiustatutto https://www.instructables.com/DIY-Weather-Station-With-ESP32/ \
-Ky- module https://arduinomodules.info/page/2/ \
+Ky- module https://arduinomodules.info/page/2/ 
